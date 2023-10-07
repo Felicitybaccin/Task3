@@ -1,0 +1,50 @@
+/*Felicity Baccin 8937874*/
+body{
+    font:normal normal normal 12px/1.5 'Courier New', Courier, monospace;
+    Width : 100vw;
+    Length : 100vw;
+    background-color: hsla(300, 74%, 42%, 0.913);
+}
+
+h2{
+    color: #f02;
+    font-size: 2em;
+}
+header{
+    background-color: hsl(59, 95%, 75%);
+}
+main{
+    float : left;
+    Width : 65vw;
+    height : 60vh;
+    background-color: hsl(25, 95%, 75%);
+}
+aside{
+    Float : right;
+    Width : 25vw;
+    height : 60vh;
+    background-color: hsl(292, 95%, 75%);
+}
+footer{
+    clear : both;
+    background-color: hsl(177, 95%, 75%);
+}
+.structural{
+    margin : 10px;
+    padding : 9px;
+    border : 4px solid black;
+
+}
+#para1{
+    color:rgb(92, 146, 255)
+}
+#para2{
+    color:rgb(107, 243, 121)
+}
+a:hover{
+    color: #f90;
+}
+footer p{
+    font-size: .75em;
+
+}
